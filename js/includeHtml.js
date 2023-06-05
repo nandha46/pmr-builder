@@ -30,5 +30,8 @@ function includeHTML() {
 
   // script to update copyright year to current year
   $(function(){
-    $('#year').text(new Date().getFullYear())
+    $('#year').text(new Date().getFullYear());
+    $('#sendingButton').hide();
+    $('#sentButton').hide();
   });
+  
