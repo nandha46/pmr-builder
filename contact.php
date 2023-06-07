@@ -32,7 +32,6 @@
   <link rel="stylesheet" href="plugins/colorbox/colorbox.css">
   <!-- Template styles-->
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/loadingHeart.css">
     <!-- Sweetalert2 -->
     <link rel="stylesheet" href="plugins/sweetalert2/sweetalert2.min.css">
     <style>
